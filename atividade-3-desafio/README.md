@@ -81,3 +81,6 @@ python cliente.py
 * Caso o cliente seja executado antes do servidor, a conexão não será estabelecida
 
 ---
+
+link:  https://youtu.be/mn1JySiFUfA
+link do funcionamento: https://youtu.be/ddCOIDAAptY
