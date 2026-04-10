@@ -90,3 +90,5 @@ python cliente.py
 * O servidor atende um cliente por vez (sem threads)
 * Caso o cliente seja executado antes do servidor, a conexão não será estabelecida
 * A comunicação termina ao enviar `QUIT`
+
+* link do video: https://youtu.be/pr4VtOFqnpk?si=DsPHngd1BOrwOhY7
